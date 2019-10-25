@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<container>
+  <testcase id="149236" type="Mobile Application" status="Candidate" submissionDate="2015-04-16" language="Java" author="Charles Oliveira" numberOfFiles="1" applicationid="2">
+    <file path="000/149/236/cardboard-java-master/CardboardSample/src/main/java/com/google/vrtoolkit/cardboard/samples/treasurehunt/CardboardOverlayView.java" language="Java" size="540" checksum="6ab2e1fa1e6d73dc45f30f11b94cf5d9        ">
+      <flaw line="70" name="CWE-789: Uncontrolled Memory Allocation"/>
+    </file>
+  </testcase>
+</container>
